@@ -1,0 +1,22 @@
+{
+  "name": "fabrikamcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrajaktaRpatil02/fabrikamcode.git"
+  },
+  "author": "prajakta patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrajaktaRpatil02/fabrikamcode/issues"
+  },
+  "homepage": "https://github.com/PrajaktaRpatil02/fabrikamcode#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
